@@ -39,4 +39,3 @@ This section includes all aspects of project planning, including user stories, t
 * Back End
   * Express
   * Node
-  * 

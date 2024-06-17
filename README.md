@@ -4,7 +4,7 @@ Scheduler is a single page application built with React that allows you to keep 
 
 ## Planning
 
-Planning information can be found in the 'planning' folder with screenshots.
+Planning information can be found in the [here](https://github.com/v-lane/scheduler-app/blob/main/planning/planning.md) with [screenshots](https://github.com/v-lane/scheduler-app/tree/main/planning/docs).
 
 ## Getting Started
 
