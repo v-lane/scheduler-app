@@ -1,16 +1,18 @@
 // import { useState } from 'react'
-import './App.css'
+import { CssBaseline, Container } from '@mui/material';
+import './App.css';
 
 function App() {
 
   return (
     <>
-      <h1>Scheduler</h1>
-      <p className="read-the-docs">
-        More content to be added soon.
-      </p>
+      <CssBaseline />
+      <Container>
+        <h1>Scheduler</h1>
+      </Container>
+
     </>
-  )
+  );
 }
 
-export default App
+export default App;
